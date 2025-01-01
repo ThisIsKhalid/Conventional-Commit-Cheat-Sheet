@@ -1,7 +1,5 @@
 # Conventional Commit Cheat Sheet
 
-A comprehensive guide to mastering the [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/) standard for versioning in your projects.
-
 ---
 ## 🚀 Why Use Conventional Commits?
 
